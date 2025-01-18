@@ -1,3 +1,4 @@
+![logo](https://github.com/chhamza11/chhamza11/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Mobile app developer from Pakistan</h3>
 <img align="right" ali="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
