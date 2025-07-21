@@ -4,13 +4,13 @@
 <img align="right" ali="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhamza11&label=Profile%20views&color=0e75b6&style=flat" alt="chhamza11" /> </p>
 
-- 🌱 I’m currently learning **Flutter App development**
+**Flutter Developer**
+I'm a Flutter App Developer with **two years** of market experience, specializing in creating robust and user-friendly mobile applications. I'm passionate about building high-performance apps that provide excellent user experiences.
 
 - 💬 Ask me about **OOP, DSA , Dart, C , Flutter**
 
 - 📫 How to reach me **mhamzatext@gmail.com**
 
-- 📄 Know about my experiences by resume [https://drive.google.com/file/d/1clpmkJDwqmI4ouarbH-Yew-CPSYxs4jp/view?usp=sharing](https://drive.google.com/file/d/1clpmkJDwqmI4ouarbH-Yew-CPSYxs4jp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
