@@ -24,5 +24,5 @@ I'm a Flutter App Developer with **two years** of market experience, specializin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhamza11&show_icons=true&locale=en&layout=compact" alt="chhamza11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmzdev&show_icons=true&locale=en" alt="chhamza11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhamza11&show_icons=true&locale=en" alt="chhamza11" /></p>
 
